@@ -3,7 +3,7 @@ title: Gitapp
 emoji: 🐨
 colorFrom: yellow
 colorTo: pink
-sdk: streamlit
+sdk: Streamlit
 app_file: app.py
 pinned: false
 ```
