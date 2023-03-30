@@ -1,12 +1,12 @@
-```
+---
 title: Gitapp
 emoji: 🐨
 colorFrom: yellow
 colorTo: pink
-sdk: Streamlit
+sdk: streamlit
 app_file: app.py
 pinned: false
-```
+---
 
 # flask-salary-predictor
 This is project predicts the salary of the employee based on the experience.
